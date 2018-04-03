@@ -1,4 +1,4 @@
-the purpose of this app is to allow users to book rooms for appointments(meetings)
+the purpose of this app is to allow users to book rooms for appointments(meetings).
 it tries to use:
 - REST methodology;
 - Spring boot;
